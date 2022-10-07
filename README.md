@@ -1,0 +1,1 @@
+# Design-of-Capacitor-Array-in-16-Bit-Ultra-High-Precision-SAR-ADC-with-SKY130-Technology
