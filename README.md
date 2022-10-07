@@ -9,3 +9,8 @@
 <p>
 <img src="https://user-images.githubusercontent.com/100710081/194599646-2619117e-1707-4136-90b0-8abe4830feff.png" />
  </>
+ 
+# Problem Statement of the Hackathon
+ 
+## The participants are expected to design Mixed Signal Circuits using the eSim Software with SKY130 PDK and NgVeri, simulate and analyze their circuits.
+
