@@ -26,9 +26,7 @@ FOSSEE, IIT Bombay, along with Google and VLSI System Design Corp. Pvt. Ltd is o
  The participants are expected to design Mixed Signal Circuits using the eSim Software with SKY130 PDK and NgVeri, simulate and analyze their circuits.
  
 ## Abstract
-
-VVVUVVJ
- 
+In this article, a 16-bit 6-channel high-voltage successive approximation register (SAR) ADC with an optimized 5 + 5 + 6 segmented capacitor array has been presented.
  
  
  
