@@ -1,4 +1,10 @@
 # Design-of-Capacitor-Array-in-16-Bit-Ultra-High-Precision-SAR-ADC-with-SKY130-Technology
+
+- [Abstract](#abstract)
+- [Reference Circuit Diagram](#reference-circuit-diagram)
+- [Reference Waveform](#reference-waveform)
+- [Circuit Details](#circuit-details)
+- [Software Used](#software-used)
  
 
 <p>
@@ -19,5 +25,19 @@ FOSSEE, IIT Bombay, along with Google and VLSI System Design Corp. Pvt. Ltd is o
 # Problem Statement of the Hackathon
  The participants are expected to design Mixed Signal Circuits using the eSim Software with SKY130 PDK and NgVeri, simulate and analyze their circuits.
  
+## Abstract
+
+VVVUVVJ
+ 
+ 
+ 
+ 
  
 
+
+
+## ACKNOWLEDGEMENTS
+1. FOSSEE, IIT Bombay
+2. Steve Hoover, Founder, Redwood EDA
+3. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+4. Sumanto Kar, eSim Team, FOSSEE
