@@ -36,6 +36,6 @@ In this article, a 16-bit 6-channel high-voltage successive approximation regist
 
 ## ACKNOWLEDGEMENTS
 1. FOSSEE, IIT Bombay
-2. Steve Hoover, Founder, Redwood EDA
+2. Google
 3. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
 4. Sumanto Kar, eSim Team, FOSSEE
